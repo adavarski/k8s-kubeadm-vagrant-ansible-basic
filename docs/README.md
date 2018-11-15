@@ -1,4 +1,4 @@
-#  3
+#  mini Howto 
 
 Scripts to install a kubernetes cluster in Vagrant
 
