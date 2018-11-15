@@ -1,3 +1,3 @@
-# Init v0
+# Init
 
 [Documentation](docs/README.md)
