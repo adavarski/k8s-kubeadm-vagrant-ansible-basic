@@ -6,8 +6,6 @@ You need a `bash` enviroment with SSH, either a Linux Distro, a Mac OSX or Windo
 
 You need also VirtualBox, Vagrant and Ansible installed in your environment. 
 
-![Kubernetes On VirtualBox in Windows](kubernetes-the-hard-way.png)
-
 # Setup on Linux/OSX
 
 The kit is for Unix, so works out of the box in Linux and OSX, as follows.
